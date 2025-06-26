@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "bgImage": "https://i.postimg.cc/xdhQDMJF/aa.jpg",
+    "header": "Grow Your Dream Garden",
+    "paragraphs": [
+      "Discover expert tips, tools, and guides ",
+      "to nurture your green sanctuary."
+    ]
+  },
+  {
+    "id": 2,
+    "bgImage": "https://i.postimg.cc/QMR2nDw2/bb.jpg",
+    "header": "From Seeds to Blooms",
+    "paragraphs": [
+      " Learn how to grow vegetables, herbs, .",
+      "and flowers—no matter your space or skill"
+    ]
+  },
+  {
+    "id": 3,
+    "bgImage": "https://i.postimg.cc/ZqBkcn7P/cc.jpg",
+    "header": " Join Our Gardening Community",
+    "paragraphs": [
+      "Share your tips, get inspired, and bloom together",
+      " with fellow plant lovers."
+    ]
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Ask Plant Questions",
+    "description": "Get answers to your toughest plant care questions from experienced members.",
+    "icon": "MdMessage"
+  },
+  {
+    "id": 2,
+    "title": "Find Local Gardeners",
+    "description": "Connect with gardeners in your area, share experiences, and build local communities.",
+    "icon": "MdSearch"
+  },
+  {
+    "id": 3,
+    "title": "Gardening Events",
+    "description": "Discover and join local gardening events, workshops, and meetups.",
+    "icon": "MdCalendarToday"
+  },
+  {
+    "id": 4,
+    "title": "Shared Interests",
+    "description": "Connect over composting, hydroponics, balcony gardens, and more specific topics.",
+    "icon": "MdPerson"
+  }
+]

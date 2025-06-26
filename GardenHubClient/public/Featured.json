@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.postimg.cc/1t40VNPj/1.jpg",
+    "name": "Alice Greenleaf",
+    "gender": "Female",
+    "age": 38,
+    "status": "Active",
+    "expertise": "Organic Vegetables",
+    "experience": "10+ years",
+    "description": "Specializes in sustainable vegetable farming with organic certification. Expert in soil health and natural pest control methods.",
+    "totalSharedTips": 27
+  },
+  {
+    "id": 2,
+    "image": "https://i.postimg.cc/5t2LDFH2/2.jpg",
+    "name": "John Rootwell",
+    "gender": "Male",
+    "age": 45,
+    "status": "Active",
+    "expertise": "Permaculture Design",
+    "experience": "15+ years",
+    "description": "Permaculture specialist creating self-sustaining ecosystems. Focuses on food forests and water conservation.",
+    "totalSharedTips": 42
+  },
+  {
+    "id": 3,
+    "image": "https://i.postimg.cc/nVyKMzW3/3.jpg",
+    "name": "Maria Blossom",
+    "gender": "Female",
+    "age": 34,
+    "status": "On Leave",
+    "expertise": "Herb Cultivation",
+    "experience": "8+ years",
+    "description": "Organic herb grower with expertise in medicinal plants and companion planting techniques.",
+    "totalSharedTips": 19
+  },
+  {
+    "id": 4,
+    "image": "https://i.postimg.cc/fTYcdsnD/4.jpg",
+    "name": "David Stonefield",
+    "gender": "Male",
+    "age": 50,
+    "status": "Active",
+    "expertise": "Organic Orchards",
+    "experience": "12+ years",
+    "description": "Specialist in organic fruit tree cultivation and natural pollination methods.",
+    "totalSharedTips": 31
+  },
+  {
+    "id": 5,
+    "image": "https://i.postimg.cc/HkHQ4Nd5/5.jpg",
+    "name": "Sophia Greenhand",
+    "gender": "Female",
+    "age": 29,
+    "status": "Active",
+    "expertise": "Microgreens",
+    "experience": "5+ years",
+    "description": "Urban farming expert specializing in high-density microgreen production.",
+    "totalSharedTips": 22
+  },
+  {
+    "id": 6,
+    "image": "https://i.postimg.cc/4x5p81x0/6.jpg",
+    "name": "Robert Leaford",
+    "gender": "Male",
+    "age": 55,
+    "status": "Retired",
+    "expertise": "Organic Composting",
+    "experience": "20+ years",
+    "description": "Master of organic waste recycling and soil amendment techniques.",
+    "totalSharedTips": 54
+  }
+]

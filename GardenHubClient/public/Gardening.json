@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Spring Planting Guide",
+    "description": "Learn which vegetables thrive in early spring and how to prepare your garden for the season.",
+    "icon": "🌱"
+  },
+  {
+    "id": 2,
+    "title": "Organic Pest Control",
+    "description": "Discover natural methods to keep your plants safe from pests without harmful chemicals.",
+    "icon": "🐞"
+  },
+  {
+    "id": 3,
+    "title": "Composting Basics",
+    "description": "Turn your kitchen scraps and yard waste into nutrient-rich compost for your garden.",
+    "icon": "♻️"
+  }
+]
